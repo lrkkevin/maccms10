@@ -14,11 +14,11 @@ return [
     // 服务器地址
     'hostname'        => '127.0.0.1',
     // 数据库名
-    'database'        => 'maccms10',
+    'database'        => 'xiuxiucn_xiuxiu',
     // 用户名
-    'username'        => 'root',
+    'username'        => 'xiuxiucn_kevin',
     // 密码
-    'password'        => 'root',
+    'password'        => 'Kevin1234!@#$',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
